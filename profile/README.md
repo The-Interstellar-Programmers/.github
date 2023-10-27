@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-<h2>🙋‍♀️ A short introduction</h2> - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<h2>🙋‍♀️ A short introduction</h2>
+Hello Stranger! We are an organization called The Interstellar Programmers, this organiztion is dedicated to making small programming projects with a variety of languages!
+<br>
+<h2>🌈 Contribution guidelines</h2>
+If you want to Contribute to any of our projects, we are very welcome with PR(Pull Requests) and Issues, this helps us improve our code and make it even better!<br>
+                  
 
