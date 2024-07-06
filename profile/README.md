@@ -13,9 +13,3 @@ Below are a Few Notes for Contribution:<br>
 The Docs would be normally located in the nav bar of a repo, if there is none, that means the project is old/deprecated/not production-ready.<br>
 The Discussion section would be open on some big repos, where there is large amounts of code to manage, otherwise look for issues<br>
 <br>
-<h2>🍿 Fun facts</h2>
-- I eat oatmeal for breakfast :3 (Leo).<br>
-- William is a virus maker (troll viruses bascially, no harm, eh?)<br>
-- David (*a.k.a. MelonsAtNight) is good at math<br><br>
-<br>
-                  
